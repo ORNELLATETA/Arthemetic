@@ -11,6 +11,11 @@ public class Main {
         System.out.println(sum);
 
 
+//substraction
+        int numbere=3;
+        int numberes=2;
+        int sub=numbere-numbers;
+        System.out.println(sub);
 
     }
 }
