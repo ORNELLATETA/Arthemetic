@@ -17,5 +17,11 @@ public class Main {
         int sub=numbere-numbers;
         System.out.println(sub);
 
+
+        //multiplication
+        int numbred=4;
+        int numberede=2;
+        int mult=numbred*numberede;
+        System.out.println(mult);
     }
 }
