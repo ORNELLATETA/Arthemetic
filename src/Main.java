@@ -23,5 +23,11 @@ public class Main {
         int numberede=2;
         int mult=numbred*numberede;
         System.out.println(mult);
+
+        //division
+        int numberee=6;
+        int numberees=3;
+        int div=numberee/numberees;
+        System.out.println(div);
     }
 }
